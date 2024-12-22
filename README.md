@@ -12,10 +12,10 @@ I Live in Dhaka, Bangladesh.
 <hr>
 
  ## About Myself :
-- 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSc in CSE. 
+- 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSC in CSE. 
 - 🌱 I’m currently learning MERN Stake Web Development 
 - 💬 Ask me about Front-End Web Development 
-- 🌱 
+- 🌱 I want to be a Software Engineer.
 
 ## How to reach me :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abusaid1756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abusaid1756) 
