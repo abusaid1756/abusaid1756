@@ -43,11 +43,9 @@ I Live in Dhaka, Bangladesh.
 <hr>
 
 ### 🔝 Top Contributed Repo : 
-<div align="center">
  ![](https://github-contributor-stats.vercel.app/api?username=abusaid1756&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-</div>
 [![](https://visitcount.itsvg.in/api?id=abusaid1756&icon=3&color=9)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
