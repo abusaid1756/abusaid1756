@@ -29,11 +29,10 @@ I Live in Dhaka, Bangladesh.
 # 📊 GitHub Stats :
 
 
-<p align ="center" >
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abusaid1756&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=abusaid1756&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abusaid1756&theme=radical&hide_border=false)
-</p>
 
 
 <hr>
